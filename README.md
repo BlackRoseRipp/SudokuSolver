@@ -2,7 +2,7 @@
 
   Tom and Max had a simple problem. They were bright, but when it came to numbers, they tended to leave it to a calulator to solve problems. One night, bored and looking for something new to try, Max decides to give a game of Sudoku a try. That game of Sudoku ended up taking all of his brainpower to wrap his head around. Even after asking Tom for help, the two spent an absurd amount of time trying to find the right combination of numbers to solve the puzzle. Disgruntled and looking for a programing project worth their time, the two gentlemen had their eyes and minds set on one goal: make something to solve sudoku puzzles for them.
 
-## In Simpliest Terms...
+## In Simplest Terms...
 
   The python program SudokuSolver is a two part system. Part A (solver.py) does exactly what we set out to make: given a sudoku puzzle, the solver outputs a completed version of the puzzle to the user. Part B (puzzle.py) does a little more, creating solvable sudoku puzzles using the *random* python library. This allows the user to test their skills with a completely random, yet solvable puzzle, and have the solver check their work for them. These programs work in tandum with sudokuSolver.py, allowing the user to either input a puzzle that has been giving them trouble or generate a new puzzle to test their skills. 
 
