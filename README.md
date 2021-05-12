@@ -11,3 +11,6 @@
   
 ## Puzzle.py
   At the startup of sudokuSolver.py, puzzle.py creates an already solved puzzle using the conditions of a sudoku puzzle. The program then loops through the puzzle and repleaces some of the correct numbers with 0s. (The 0's appear as dots in the puzzle board on the user's end) puzzle.py has 2 export functions: getPuzzle, which returns a generated puzzle board for use in printPuzzle, and printPuzzle, which imports a puzzle board either from the user's inputs or grabs the puzzle generated at startup using getPuzzle and prints the board for the user to see. 
+
+## Our Demo!
+https://drive.google.com/file/d/1SR54cE1kx7lW2CtGy4lb302uUciIDdXi/view
