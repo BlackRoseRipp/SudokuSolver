@@ -8,11 +8,11 @@ def solve(grid, row, col, num):
             return False
  
  
-    startRow = row - row % 3
-    startCol = col - col % 3
+    initRow = row - row % 3
+    initCol = col - col % 3
     for i in range(3):
         for j in range(3):
-            if grid[i + startRow][j + startCol] == num:
+            if grid[i + initRow][j + initCol] == num:
                 return False
     return True
 
